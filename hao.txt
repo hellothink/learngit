@@ -1,3 +1,6 @@
 ni hao
+<<<<<<< HEAD
 shi de 
 update2
+update
+
